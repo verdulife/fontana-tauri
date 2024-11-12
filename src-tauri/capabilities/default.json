@@ -1,0 +1,17 @@
+{
+  "permissions": [
+    {
+      "identifier": "http:default",
+      "allow": [
+        {
+          "url": "*"
+        }
+      ],
+      "deny": [
+        {
+          "url": ""
+        }
+      ]
+    }
+  ]
+}
